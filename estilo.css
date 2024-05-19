@@ -1,0 +1,84 @@
+    
+    
+    /*ESTILO H1*/ 
+    h1{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+        'Lucida Sans', Arial, sans-serif;
+        text-align: center; margin-top: -13%;}
+    
+    /*ESTILOS H2 E H3*/
+    h2, h3{margin-left: 10%; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 
+        'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    .entrarcontato{margin-left: 28%;}
+    .redes{margin-left: 28%;}
+    .port{margin-left: 32%;}
+    .ultimo{padding-top: 50px;}
+    h3{margin-left: 13%;}
+
+    /*ESTILOS H4 E H5*/
+    h4, h5{text-align: center;}
+    .prop{text-align: center;}
+    .unico{margin-left: 13%;
+    text-decoration: wavy;}
+
+    /*ESTILOS PARÁGRAFO*/
+    .trabalho{margin-left: 20%; margin-right: 10%;}
+    .trabalho{font-size: 17px;}
+    .formacao{margin-left: 13%; font-size: 20px; text-align: justify;}
+    .formacao2{margin-left: 30%; font-size: 16px; text-align: justify;}
+
+    /*ESTILO MENU*/ 
+    nav{text-align: center; 
+        font-size: 19px;
+        padding: 0px;}
+    ul li {display: inline-block; }
+    li a{background-color: rgb(224, 215, 215); color: black; font-weight: bold; 
+        padding: 5px 10px; text-decoration: none;
+        border-radius: 5px;}
+    li{padding-right: 30px;}
+
+    /*MOUSE SOBRE MENU*/ 
+    li a:hover {
+    background: rgb(22, 23, 26); color: rgb(247, 210, 161);}
+
+    /*LINHA HORIZONTAL*/
+    figure.linha1 {border: 1px solid black;}
+
+    /*ESTILO LINKS*/
+    .link3{font-size: 17px;
+        font-weight: bold;
+        padding: 0px;
+        margin-left: 0%;
+        background-color: rgb(255, 255, 255);
+        color: rgb(55, 0, 255);
+        text-decoration: none;}
+
+    /*ESTILO FORMULÁRIO*/
+    .formulario1{margin-left: 20%;}
+ 
+    /*ESTILO DAS IMAGENS*/
+    img{margin-left: 3%; margin-top: 0%;}
+    .cv{border-radius: 80%;
+        padding: 0;
+        border: 0;}
+    .fotoerro{
+        padding: 0px; border: 1px solid black;
+        margin-left: 32%;}
+    .github{margin-left: 20%; border-radius: 10px;}
+    .figma{margin-left: 20%;
+        border-radius: 13px;
+        border-color: black, 10px;}
+    .linkedin{margin-left: 31%; }
+
+    /*ESTILO BOTÕES*/
+    button{background-color: gray;
+        color: white;
+        margin-left: 110%;
+        font-size: 17px;}
+    .Voltar{margin-left: 48%; font-size: 17px;}
+
+    /*ESTILO TABELA*/
+    table{margin-left: 30%;}
+
+    /*ESTILO RODAPÉ*/
+    footer{padding-top: 150px;}
+    footer{text-align: center;}
